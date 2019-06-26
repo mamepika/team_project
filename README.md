@@ -2,7 +2,7 @@
 コラボレイティブ チーム演習
 
 # Authors
-・mamepika  
+・mamepika
 ・mamitsubute 
 ・youknowcast
 ・a1935af
